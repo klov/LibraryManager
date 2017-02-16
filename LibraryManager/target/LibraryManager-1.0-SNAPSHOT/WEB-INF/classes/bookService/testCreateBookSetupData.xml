@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <book/>
+    <pagedata/>
+    <document/>
+    <page/>
+    <category ID="1" VERSION="1"/> 
+    <category ID="2" VERSION="1"/> 
+    <delivery/>
+    <organization ID="1" NAME="organization1" ADDRESS="address1" VERSION="1"/>
+    <organization ID="2" NAME="organization2" ADDRESS="address2" VERSION="1"/>
+    <notice/>    
+    <book_label_detail/>
+</dataset>

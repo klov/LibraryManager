@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <category ID="1" VERSION="1"/> 
+    <category ID="2" VERSION="1"/> 
+    <organization ID="1" NAME="organization1" ADDRESS="address1" VERSION="1"/>
+    <organization ID="2" NAME="organization2" ADDRESS="address2" VERSION="1"/>
+    <book ID="1" VERSION="1" NAME="updateBook" COPY_NUMBER="copy one" BOOK_NUMBER="12345" DECLIMAL_NUMBER="DCBA" ORIGINAL_INVENTORY_NUMBER="originalInventoryNumber" INVENTORY_NUMBER="inventoryNumber"/>
+    <pagedata/>
+    <document ID="1" NOTICE="notice" VERSION="2" LIST_COUNT="0" BOOK_ID="1" MODIFICATION="0"/>
+    <page/>
+    <delivery ID="1" VERSION="1" DELIVERY_DATE="2014-08-23" BOOK_ID="1" EMPLOYE_ID="54" SURRENDER_DATE="2014-11-08"/>
+    <delivery ID="2" VERSION="1" DELIVERY_DATE="2015-08-23" BOOK_ID="1" EMPLOYE_ID="34" SURRENDER_DATE="2015-11-08"/>
+    <delivery ID="3" VERSION="1" DELIVERY_DATE="2016-08-23" BOOK_ID="1" EMPLOYE_ID="1"/>
+    <notice/>   
+    <book_label_detail BOOK_ID="1" CATEGORY_ID="1"/>
+    <book_label_detail BOOK_ID="1" CATEGORY_ID="2"/>
+</dataset>

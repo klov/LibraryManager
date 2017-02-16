@@ -1,0 +1,27 @@
+﻿<%@ page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+<nav class="navbar navbar-default " >
+    <div class="container-fluid">
+        <div id="navbar" class="navbar-collapse collapse ">
+            <ul class="nav navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="/LibraryManager/book_page">Книги</a></li>
+            </ul>
+            <ul class="nav navbar-nav ">
+                <li class="dropdown nav-item">
+                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Дополнительно<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/LibraryManager/category_page">Категории</a></li>
+                        <li><a href="/LibraryManager/organization_page">Организации</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="nav-item nav-link">
+                    <form action="/LibraryManager/logout" method="post" style="padding: 15px;">
+                         <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>
+                        <input type="submit" class="btm btn-link " value="Выход">
+                    </form>
+                </li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div><!--/.container-fluid -->
+</nav>

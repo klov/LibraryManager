@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <category id="1" name="8A82KM"  version="1" />
+    <category id="2" name="14A14"  version="1" />
+    <book id="1" name = "myBook" list_count="30" category_id ="1"/>
+    <bookType/>
+    <delivery/>
+    <document/>
+    <organization/>
+    <page/>
+</dataset>

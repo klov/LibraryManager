@@ -1,0 +1,12 @@
+jpa.driver = org.postgresql.Driver
+jpa.url = jdbc:postgresql://localhost:5432/LibraryDb
+jpa.user = postgres
+jpa.password = 123456
+jpa.dialect = org.hibernate.dialect.PostgreSQLDialect
+jpa.strategy = create
+#jpa.driver = com.mysql.jdbc.Driver
+#jpa.url = jdbc:mysql://localhost:3306/LibraryDb
+#jpa.user = root
+#jpa.password = 1234
+#jpa.dialect = org.hibernate.dialect.MySQLDialect
+#jpa.strategy = create

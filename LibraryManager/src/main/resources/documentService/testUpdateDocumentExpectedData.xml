@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <book ID="1" NAME="bookName" VERSION="1"  INVENTORY_NUMBER="nventoryNum"  DECLIMAL_NUMBER="decNum"  BOOK_NUMBER="bookNum"  BOOK_PART="bookPart" COPY_NUMBER="copyNum" ORGANIZATION_ID="[null]" ORIGINAL_INVENTORY_NUMBER="number"/>
+    <document ID="1" INCOME_NUMBER="12" OUTCOME_NUMBER="15r" VERSION="3" LIST_COUNT="2" NOTICE="newNotice" NOTICE_DATE="[null]" INCOME_DATE="[null]" OUTCOME_DATE="[null]" MODIFICATION="34" BOOK_ID="1" />
+    <page ID="1" VERSION="1" NAME="pageName" PAGE_DATA_ID="[null]" DOCUMENT_ID="1" STATE="ADDED" />
+    <page ID="2" VERSION="1" NAME="pageName2" PAGE_DATA_ID="[null]" DOCUMENT_ID="1" STATE="ADDED" />
+    <category/>    
+    <delivery/>
+    <organization/>
+    <notice/>
+    <pagedata/>
+    <book_label_detail/>
+</dataset>

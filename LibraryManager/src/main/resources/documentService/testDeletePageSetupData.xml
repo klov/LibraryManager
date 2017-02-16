@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <book ID="1" NAME="bookName" VERSION="1"/>
+    <document ID="1" INCOME_NUMBER="12" OUTCOME_NUMBER="45" VERSION="2" LIST_COUNT="2" NOTICE="qwe" NOTICE_DATE="1991-12-11" INCOME_DATE="1991-12-11" OUTCOME_DATE="2011-01-01" MODIFICATION="34" BOOK_ID="1" />
+    <pagedata ID="1" VERSION="1" CONTENT="[B@19e0bfd"/>
+    <page ID="1" VERSION="1" NAME="pageName" PAGE_DATA_ID="[null]" DOCUMENT_ID="1"  />
+    <page ID="2" VERSION="1" NAME="pageName2" PAGE_DATA_ID="1" DOCUMENT_ID="1"  />
+    <category/>    
+    <delivery/>
+    <organization/>
+    <notice/>    
+    <book_label_detail/>
+</dataset>
