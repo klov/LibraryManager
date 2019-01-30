@@ -1,6 +1,4 @@
-/*
-   Информационно-вычислительный центр космодрома Байконур
-*/
+
 
 package com.ivc.libraryweb.integration.config;
 
